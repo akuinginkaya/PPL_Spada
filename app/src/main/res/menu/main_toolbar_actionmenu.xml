@@ -3,9 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="main_search"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
         android:id="main_notification"
         android:title="Notifikasi"
         android:icon="@drawable/ic_baseline_notifications_24"
         app:showAsAction="always" />
+
 
 </menu>
