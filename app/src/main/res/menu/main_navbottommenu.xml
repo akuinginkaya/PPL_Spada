@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navmenu_beranda"
+        android:title="Beranda"
+        android:icon="@drawable/ic_baseline_home_24" />
+
+    <item
+        android:id="@+id/navmenu_dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24" />
+
+    <item
+        android:id="@+id/navmenu_kalender"
+        android:title="Kalender"
+        android:icon="@drawable/ic_baseline_event_24" />
+
+    <item
+        android:id="@+id/navmenu_berkas"
+        android:title="Berkas"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24" />
+
+    <item
+        android:id="navmenu_profil"
+        android:title="Profil"
+        android:icon="@drawable/ic_baseline_account_circle_24" />
+
+</menu>
